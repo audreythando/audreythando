@@ -13,7 +13,7 @@ Full stack product engineer, front-end leaning — I turn messy requirements int
 
 ## 🍽️ Outside of code
 
-I cook 😂 badly, on purpose, sometimes 😂😂 and I genuinely don't care, because I love being in the kitchen trying out new recipes more than I love getting them right. Recently got into baking too, which is funny because I'm not even that big a fan of most baked goods. Turns out I just like making things. I'm also always chasing the next restaurant worth the drive — got a spot in Joburg I haven't tried? Send it my way.
+I cook 😂 badly, on purpose, sometimes 😂😂 and I genuinely don't care, because I love being in the kitchen trying out new recipes more than I love getting them right. Recently got into baking too, which is funny because I'm not even that big a fan of most baked goods. Turns out I just like making things. I'm also always chasing the next restaurant worth the drive .
 
 ## 🧰 Tools I reach for
 
