@@ -17,7 +17,18 @@ I cook, badly on purpose sometimes, and I'm always chasing the next restaurant w
 
 ## 🧰 Tools I reach for
 
-[![react](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://reactjs.org/) [![typescript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)](https://www.typescriptlang.org/) [![nextjs](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg)](https://nextjs.org/) [![angular](https://angular.io/assets/images/logos/angular/angular.svg)](https://angular.io) [![dotnet](https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg)](https://dotnet.microsoft.com/) [![csharp](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)](https://learn.microsoft.com/en-us/dotnet/csharp/) [![nodejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)](https://nodejs.org) [![docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)](https://www.docker.com/) [![azure](https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg)](https://azure.microsoft.com/) [![figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)](https://www.figma.com/)
+<p align="left">
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="36" height="36" alt="React"/></a>&nbsp;
+<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript"/></a>&nbsp;
+<a href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="36" height="36" alt="Next.js"/></a>&nbsp;
+<a href="https://angular.io"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="36" height="36" alt="Angular"/></a>&nbsp;
+<a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="36" height="36" alt=".NET"/></a>&nbsp;
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="36" height="36" alt="C#"/></a>&nbsp;
+<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="36" height="36" alt="Node.js"/></a>&nbsp;
+<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="36" height="36" alt="Docker"/></a>&nbsp;
+<a href="https://azure.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" width="36" height="36" alt="Azure"/></a>&nbsp;
+<a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="36" height="36" alt="Figma"/></a>
+</p>
 
 ## 🚀 Projects
 
