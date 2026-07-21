@@ -10,6 +10,7 @@ Full stack product engineer, front-end leaning — I turn messy requirements int
 - Just shipped **Cardify**, an AI-powered credit dashboard (React, .NET, a local AI assistant I got a bit too invested in)
 - Starting on **FlowSphere** — new build, watch this space
 - Getting properly comfortable with Angular and backend fundamentals, not just visiting
+- Studying towards Microsoft Azure AI 200 certification 
 
 ## 🍽️ Outside of code
 
