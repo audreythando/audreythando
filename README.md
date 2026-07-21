@@ -48,4 +48,3 @@ I cook 😂 badly, on purpose, sometimes 😂😂 and I genuinely don't care, be
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/audrey-thando-mpalume-ab947a19b/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-thandoaudrey.vercel.app)
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=audreythando&show_icons=true&locale=en&layout=compact)
